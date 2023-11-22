@@ -1,0 +1,17 @@
+LP1  practical list
+
+1. Design suitable Data structures and implement Pass-I of a two-pass assembler / Macroprocessor
+
+2. Design suitable Data structures and implement Pass-2 of a two-pass assembler / Macroprocessor
+
+3. Write a program to create Dynamic Link Library for any mathematical or matrix or string operation 
+   and write an application program to test it.
+
+4. Write a program to simulate CPU Scheduling Algorithms: FCFS, SJF (Preemptive), 
+   Priority (Non-Preemptive) and Round Robin (Preemptive).(Any two of this will be in practical exam)
+
+5. Write a program to simulate Memory placement strategies – best fit, first fit, next fit and 
+   worst fit. (Same any two)
+
+6. Write a program to simulate Page replacement algorithm.(Can implement any one of~ FIFO, 
+   LRU or Optimal)
